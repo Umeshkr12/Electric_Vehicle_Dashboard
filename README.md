@@ -1,7 +1,9 @@
 ![image](https://github.com/user-attachments/assets/87b38d8f-ee2a-4e86-b917-486f5b77ff75)![image](https://github.com/user-attachments/assets/30b4965e-151b-4fb0-88e7-ee29b51a3d5e)![image](https://github.com/user-attachments/assets/2f6070c9-7c60-46f0-be34-e9d5b71991f8)# Electric_Vehicle_Dashboard
 EV_Dashboard
 
-PROBLEM STATEMENT=
+PROBLEM STATEMENT:-
+
+
 KPI’S Requirement:-
  1.Total Vehicles:
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
